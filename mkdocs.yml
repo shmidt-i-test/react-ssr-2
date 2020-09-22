@@ -1,0 +1,8 @@
+site_name: react-ssr-2
+site_description: react-ssr-2
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
